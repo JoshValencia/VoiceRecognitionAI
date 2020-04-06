@@ -1,0 +1,15 @@
+{
+  "name": "voicerecognitionapp",
+  "version": "0.0.1",
+  "description": "voice recognition app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jushua valencia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
